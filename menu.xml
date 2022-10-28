@@ -1,0 +1,17 @@
+<menu>
+  <food>
+    <name>pizza</name>
+    <price>$50</<price>
+    <cal>200</cal>
+  </food>
+  <food>
+    <name>noodile</name>
+    <price>$21</<price>
+    <cal>256</cal>
+  </food>
+  <food>
+    <name>dimsum</name>
+    <price>$45</<price>
+    <cal>130</cal>
+  </food>
+</menu>
